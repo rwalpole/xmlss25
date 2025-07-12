@@ -1,7 +1,7 @@
 # Linked Data tutorial proposal for the XML Summer School
 
 ## Introduction
-This document proposes a linked data tutorial in two parts.
+This document proposes a Linked Data tutorial in two parts.
 
 The first part is designed to provide students with a basic understanding of the concepts, technologies and standards that together are used to build the Web of Linked Data.
 
@@ -43,4 +43,4 @@ In order to make the course as interesting and relevant to participants as possi
 
 At the end of the course, students will be able to take their Personal Knowledge Graphs home and continue to build on them at their leisure.
 
-We will end the session with a discussion about the possible uses for our knowledge graphs. We might think about embedding them in websites or blogs, using them in journalling or to manage our day to day activities. There are no right or wrongs answers!
+We will end the session with a discussion about the possible uses for our knowledge graphs. We might think about embedding them in websites or blogs, using them in journalling or to manage our day to day activities. There are no right or wrong answers!
