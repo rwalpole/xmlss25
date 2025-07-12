@@ -1,7 +1,7 @@
 # Linked Data tutorial proposal for the XML Summer School
 
 ## Introduction
-This document proposes a Linked Data tutorial in two parts.
+This document proposes a Linked Data tutorial in two parts, with each part expected to last 90 minutes.
 
 The first part is designed to provide students with a basic understanding of the concepts, technologies and standards that together are used to build the Web of Linked Data.
 
@@ -41,6 +41,6 @@ This part of the tutorial would provide a basic understanding of the key topics 
 ## Part two<a name="part2"></a> - case study: building a Personal Knowledge Graph
 In order to make the course as interesting and relevant to participants as possible, we will apply the knowledge gained in [part one](#part1) to the example of building a Personal Knowledge Graph (PKG) for ourselves from scratch. PKG's are knowledge graphs with ourselves at the centre, so the first thing we would need to do is create a URI for ourselves. Once we have a URI for ourselves we can think about what we want to include in our PKG. That could be our family, our holidays, the films we love or some sport that we are fanatical about. Do we need to create URIs for these things or do they already exist somewhere in the Web of Data? Once we have the URIs for the things we want to talk about we need to figure out how we are connected to them and what vocabularies we might use to create these connections in our graph. Can we re-use existing vocabularies or might we need to create our own?
 
-At the end of the course, students will be able to take their Personal Knowledge Graphs home and continue to build on them at their leisure.
+At the end of this session, students will have the beginnings of a Personal Knowledge Graph which they can take home and continue to build on at their leisure.
 
 We will end the session with a discussion about the possible uses for our knowledge graphs. We might think about embedding them in websites or blogs, using them in journalling or to manage our day to day activities. There are no right or wrong answers!
