@@ -17,7 +17,7 @@ This part of the tutorial would provide a basic understanding of the key topics 
 ### Topics covered:
 - **Representing knowledge with graphs and triples**
   - Visualising knowledge with nodes and edges
-  - The Subject -> Predicate -> Object construct
+  - The *Subject* -> *Predicate* -> *Object* construct
 - **Identifying things with URIs**
   - Creating cool URIs for stuff
   - URIs vs URLs
