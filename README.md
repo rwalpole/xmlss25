@@ -3,14 +3,18 @@
 ## Introduction
 This document proposes a linked data tutorial in two parts.
 
-The first part is designed to provide students with a basic understanding of the concepts, techologies and standards that together are used to build the Web of Linked Data.
+The first part is designed to provide students with a basic understanding of the concepts, technologies and standards that together are used to build the Web of Linked Data.
 
-The second part would be an opportunity to apply the understanding gained in the first part to the real-world scenario of creating themselves a Personal Knowledge Graph using Linked Data and Semantic Web technologies.  
+The second part would be an opportunity for students to apply the understanding gained in the first part to the real-world scenario of creating themselves a Personal Knowledge Graph using Linked Data and Semantic Web technologies.  
 
 ## Who is it suitable for?
 Students, practitioners and enthusiasts of computer science, digital humanities, and information sciences who have a basic understanding of web technologies and data formats.
 
-## Part one<a name="headin"></a> - concepts, technologies and standards:
+## Part one<a name="headin"></a> - concepts, technologies and standards
+
+This part of the tutorial would provide a basic understanding of the key topics that anyone wishing to work with Linked Data would need to have. This part of the course is a pre-requisite to the second part.
+
+### Topics covered:
 - Representing knowledge with graphs and triples
   - Visualising knowledge with nodes and edges
   - The Subject -> Predicate -> Object construct
