@@ -15,23 +15,24 @@ Students, practitioners and enthusiasts of computer science, digital humanities,
 This part of the tutorial would provide a basic understanding of the key topics that anyone wishing to work with Linked Data would need to have. This part of the course is a pre-requisite to the second part.
 
 ### Topics covered:
-- Representing knowledge with graphs and triples
+- **Representing knowledge with graphs and triples**
   - Visualising knowledge with nodes and edges
   - The Subject -> Predicate -> Object construct
-- Identifying things with URIs
+- **Identifying things with URIs**
   - Creating cool URIs for stuff
   - URIs vs URLs
-- Representing graphs and triples with RDF
+- **Representing graphs and triples with RDF**
   - The RDF syntax (mainly Turtle)
   - Using RDFS vocabularies and OWL ontologies
   - Finding and using existing vocabularies vs creating your own
-- Knowledge Graphs
+- **Knowledge Graphs**
+  - Data vs knowledge
   - Describing real world things and their relationships
   - Implicit vs explicit knowledge
-- The Semantic Web
+- **The Semantic Web**
   - Standardised knowledge representations
   - The Semantic web technology stack
-- Linked Data / The Web of Data
+- **Linked Data / The Web of Data**
   - HTTP + URIs + RDF
   - A web of human readable documents combined with machine readable data
   - Finding stuff on the Web of Data
